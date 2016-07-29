@@ -1,6 +1,6 @@
 ---
-title: "There is no tutorial"
-slug: no-tutorial
+title: "Marketing"
+slug: marketing
 ---
 
 This lecture will discuss marketing, with respect to iOS development; much is applicable to *any* platform.
